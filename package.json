@@ -1,0 +1,11 @@
+{
+  "name": "binary_chop",
+  "version": "1.0.0",
+  "description": "Implement binary search in 5 unique ways as part of Code Kata exercise number 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Byron Barnes",
+  "license": "ISC"
+}
